@@ -1,0 +1,59 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "a85a34d8-008d-4135-8b29-ead68977d82d",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "'god'"
+      ],
+      "text/latex": [
+       "'god'"
+      ],
+      "text/markdown": [
+       "'god'"
+      ],
+      "text/plain": [
+       "[1] \"god\""
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "Qibo <- \"god\"\n",
+    "Qibo"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e3284e57-4f71-498c-a9e0-308bc98596b2",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "R",
+   "language": "R",
+   "name": "ir"
+  },
+  "language_info": {
+   "codemirror_mode": "r",
+   "file_extension": ".r",
+   "mimetype": "text/x-r-source",
+   "name": "R",
+   "pygments_lexer": "r",
+   "version": "4.3.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
